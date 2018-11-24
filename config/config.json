@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "r6fipcseebi8y7dk",
+    "password": "pwu0lafta2nbzjn9",
+    "database": "urhmctjwno8clqnf",
+    "host": "mgs0iaapcj3p9srz.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "port": 8889,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
